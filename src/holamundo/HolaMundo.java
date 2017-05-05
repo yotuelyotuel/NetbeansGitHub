@@ -12,8 +12,12 @@ package holamundo;
 public class HolaMundo {
 
     public static void main(String[] args) {
-            System.out.println("Hola Mundo");
+            System.out.println("Hole Mundo");
             System.out.println("Hala Manda");
+            System.out.println("Hele Mende");
+            System.out.println("Holo Mondo");
+            System.out.println("Hulu Mundo");
+            System.out.println("Hili Mindi");
 
     }
     
